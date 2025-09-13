@@ -20,7 +20,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-========== CONFIG ==========
+# ========== CONFIG ==========
 
 API_TOKEN = "6803648245:AAFnqImopwkF1R9Bjn-u7CjvSIJYGAQmU1Q"
 
