@@ -1,3 +1,2 @@
-aiogram==2.24
-python-dotenv
-requests
+aiogram==3.4.1
+asyncio
